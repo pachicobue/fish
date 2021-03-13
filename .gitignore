@@ -1,0 +1,6 @@
+fish_variables
+functions
+conf.d
+!conf.d/alias.fish
+!conf.d/compilation.fish
+!conf.d/env.fish
